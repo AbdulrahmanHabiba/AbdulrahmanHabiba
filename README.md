@@ -32,17 +32,17 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
+## 💼 Highlight Projects
 
-## 🚀 Highlight Projects
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| 🛒 [**Next.js E-Commerce**](https://github.com/AbdulrahmanHabiba/next-js-ecommerce) | Full-Stack E-commerce app using **Next.js**, **Strapi**, **Clerk**, **Stripe**, **Tailwind CSS**, and more | [Live](https://next-js-ecommerce-theta-five.vercel.app/) |
+| 🍽️ [**Food Ordering App**](https://github.com/AbdulrahmanHabiba/food-ordering-app) | Ordering platform built with **Next.js**, **Prisma**, **PostgreSQL**, **Redux Toolkit**, and **Stripe** | [Live](https://food-ordering-app-six-lake.vercel.app/) |
+| 🎮 [**Game Over App**](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) | Free Games browser built with **React.js**, using external APIs | [Live](https://game-over-omega.vercel.app/) |
+| 🍔 [**Yummy Recipes App**](https://github.com/AbdulrahmanHabiba/yummy2024) | Recipe finder using **JavaScript**, **jQuery**, and external APIs | [Live](https://yummy2024.vercel.app/) |
+| 💼 [**DevFolio**](https://github.com/AbdulrahmanHabiba/DevFolio) | Personal portfolio template using **Bootstrap** | [Live](https://abdulrahmanhabiba.github.io/DevFolio/) |
+| 🔧 [**Strapi CMS Repo**](https://github.com/AbdulrahmanHabiba/strapi-ecommerce) | CMS backend for Next.js E-Commerce, built with **Strapi** | [Live](https://strapi-ecommerce-production-f8fb.up.railway.app/) |
 
-| Project | Live Demo | Code |
-|--------|-----------|------|
-| 🛒 **Next.js E-Commerce** | [Live](https://next-js-ecommerce-theta-five.vercel.app/) | [Code](https://github.com/AbdulrahmanHabiba/next-js-ecommerce) |
-| 🍽️ **Food Ordering App** | [Live](https://food-ordering-app-six-lake.vercel.app/) | [Code](https://github.com/AbdulrahmanHabiba/food-ordering-app) |
-| 🎮 **Game Over - React App** | [Live](https://game-over-omega.vercel.app/) | [Code](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) |
-| 🍔 **Yummy Recipes App** | [Live](https://yummy2024.vercel.app/) | [Code](https://github.com/AbdulrahmanHabiba/yummy2024) |
-| 💼 **DevFolio - Portfolio** | [Live](https://abdulrahmanhabiba.github.io/DevFolio/) | [Code](https://github.com/AbdulrahmanHabiba/DevFolio) |
-| 🔧 **Strapi CMS for E-Commerce** | [Live](https://strapi-ecommerce-production-f8fb.up.railway.app/) | [Code](https://github.com/AbdulrahmanHabiba/strapi-ecommerce) |
 
 ---
 
