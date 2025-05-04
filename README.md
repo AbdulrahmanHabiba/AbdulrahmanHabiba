@@ -60,20 +60,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanHabiba&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanHabiba&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanHabiba&theme=radical" alt="GitHub Streak" />
 </p>
 
-<br>
+---
 
 ## 📫 Contact Me
 
-- 📧 Email: **abdulrahmanhabiba@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdulrahman-habiba-b6a34921a/)
-- 🖥️ [Portfolio (DevFolio)](https://abdulrahmanhabiba.github.io/DevFolio/)
+- 📧 **abdulrahmanhabiba@gmail.com**
+- 🌍 Cairo, Egypt
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-habiba-b6a34921a)
+- 💻 [GitHub](https://github.com/AbdulrahmanHabiba)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
