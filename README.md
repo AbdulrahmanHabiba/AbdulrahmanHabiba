@@ -33,16 +33,16 @@
 
 ---
 
-## 💼 Highlight Projects
+## 🚀 Highlight Projects
 
-| Project | Description |
-|--------|-------------|
-| 🛒 [**Next.js E-Commerce**](https://github.com/AbdulrahmanHabiba/next-js-ecommerce) | Full-Stack E-commerce app using **Next.js**, **Strapi**, **Clerk**, **Stripe**, **Tailwind CSS**, and more |
-| 🍽️ [**Food Ordering App**](https://github.com/AbdulrahmanHabiba/food-ordering-app) | Ordering platform built with **Next.js**, **Prisma**, **PostgreSQL**, **Redux Toolkit**, and **Stripe** |
-| 🎮 [**Game Over App**](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) | Free Games browser built with **React.js**, using external APIs |
-| 🍔 [**Yummy Recipes App**](https://github.com/AbdulrahmanHabiba/yummy2024) | Recipe finder using **JavaScript**, **jQuery**, and external APIs |
-| 💼 [**DevFolio**](https://github.com/AbdulrahmanHabiba/DevFolio) | Personal portfolio template using **Bootstrap** |
-| 🔧 [**Strapi CMS Repo**](https://github.com/AbdulrahmanHabiba/strapi-ecommerce) | CMS backend for Next.js E-Commerce, built with **Strapi** |
+| Project | Live Demo | Code |
+|--------|-----------|------|
+| 🛒 **Next.js E-Commerce** | [Live](https://next-js-ecommerce-theta-five.vercel.app/) | [Code](https://github.com/AbdulrahmanHabiba/next-js-ecommerce) |
+| 🍽️ **Food Ordering App** | [Live](https://food-ordering-app-six-lake.vercel.app/) | [Code](https://github.com/AbdulrahmanHabiba/food-ordering-app) |
+| 🎮 **Game Over - React App** | [Live](https://game-over-omega.vercel.app/) | [Code](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) |
+| 🍔 **Yummy Recipes App** | [Live](https://yummy2024.vercel.app/) | [Code](https://github.com/AbdulrahmanHabiba/yummy2024) |
+| 💼 **DevFolio - Portfolio** | [Live](https://abdulrahmanhabiba.github.io/DevFolio/) | [Code](https://github.com/AbdulrahmanHabiba/DevFolio) |
+| 🔧 **Strapi CMS for E-Commerce** | [Live](https://strapi-ecommerce-production-f8fb.up.railway.app/) | [Code](https://github.com/AbdulrahmanHabiba/strapi-ecommerce) |
 
 ---
 
