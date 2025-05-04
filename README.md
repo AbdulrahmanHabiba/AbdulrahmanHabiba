@@ -32,38 +32,48 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
+<h1 align="center">Hi 👋, I'm Abdulrahman Habiba</h1>
+<h3 align="center">A passionate Front-End Developer from Egypt</h3>
+
+<br>
+
 ## 💼 Highlight Projects
 
-| Project | Description | Live Demo |
-|--------|-------------|-----------|
-| 🛒 [**Next.js E-Commerce**](https://github.com/AbdulrahmanHabiba/next-js-ecommerce) | Full-Stack E-commerce app using **Next.js**, **Strapi**, **Clerk**, **Stripe**, **Tailwind CSS**, and more | [Live](https://next-js-ecommerce-theta-five.vercel.app/) |
-| 🍽️ [**Food Ordering App**](https://github.com/AbdulrahmanHabiba/food-ordering-app) | Ordering platform built with **Next.js**, **Prisma**, **PostgreSQL**, **Redux Toolkit**, and **Stripe** | [Live](https://food-ordering-app-six-lake.vercel.app/) |
-| 🎮 [**Game Over App**](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) | Free Games browser built with **React.js**, using external APIs | [Live](https://game-over-omega.vercel.app/) |
-| 🍔 [**Yummy Recipes App**](https://github.com/AbdulrahmanHabiba/yummy2024) | Recipe finder using **JavaScript**, **jQuery**, and external APIs | [Live](https://yummy2024.vercel.app/) |
-| 💼 [**DevFolio**](https://github.com/AbdulrahmanHabiba/DevFolio) | Personal portfolio template using **Bootstrap** | [Live](https://abdulrahmanhabiba.github.io/DevFolio/) |
-| 🔧 [**Strapi CMS Repo**](https://github.com/AbdulrahmanHabiba/strapi-ecommerce) | CMS backend for Next.js E-Commerce, built with **Strapi** | [Live](https://strapi-ecommerce-production-f8fb.up.railway.app/) |
+| Project | Description |
+|--------|-------------|
+| 🍽️ [**Food Ordering App**](https://food-ordering-app-six-lake.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/food-ordering-app) | Ordering platform built with **Next.js**, **Prisma**, **PostgreSQL**, **Redux Toolkit**, and **Stripe** |
+| 🛒 [**Next.js E-Commerce**](https://next-js-ecommerce-theta-five.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/next-js-ecommerce) | Full-Stack E-commerce app using **Next.js**, **Strapi**, **Clerk**, **Stripe**, **Tailwind CSS**, and more |
+| 🎮 [**Game Over App**](https://game-over-omega.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) | Free Games browser built with **React.js**, using external APIs |
+| 🍔 [**Yummy Recipes App**](https://yummy2024.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/yummy2024) | Recipe finder using **JavaScript**, **jQuery**, and external APIs |
+| 💼 [**DevFolio**](https://abdulrahmanhabiba.github.io/DevFolio/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/DevFolio) | Personal portfolio template using **Bootstrap** |
+| 🔧 [**Strapi CMS Demo**](https://strapi-ecommerce-production-f8fb.up.railway.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/strapi-ecommerce) | CMS backend for Next.js E-Commerce, built with **Strapi** |
 
+<br>
 
----
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,redux,postgresql,mongodb,git,figma,vercel" />
+</p>
+
+<br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanHabiba&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanHabiba&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanHabiba&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<br>
 
 ## 📫 Contact Me
 
-- 📧 **abdulrahmanhabiba@gmail.com**
-- 🌍 Cairo, Egypt
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-habiba-b6a34921a)
-- 💻 [GitHub](https://github.com/AbdulrahmanHabiba)
+- 📧 Email: **abdulrahmanhabiba@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulrahman-habiba-b6a34921a/)
+- 🖥️ [Portfolio (DevFolio)](https://abdulrahmanhabiba.github.io/DevFolio/)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
