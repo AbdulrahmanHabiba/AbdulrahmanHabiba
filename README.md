@@ -41,10 +41,10 @@
 
 | Project | Description |
 |--------|-------------|
-| 🍽️ [**Food Ordering App**](https://food-ordering-app-six-lake.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/food-ordering-app) | Ordering platform built with **Next.js**, **Prisma**, **PostgreSQL**, **Redux Toolkit**, and **Stripe** |
-| 🛒 [**Next.js E-Commerce**](https://next-js-ecommerce-theta-five.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/next-js-ecommerce) | Full-Stack E-commerce app using **Next.js**, **Strapi**, **Clerk**, **Stripe**, **Tailwind CSS**, and more |
-| 🎮 [**Game Over App**](https://game-over-omega.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) | Free Games browser built with **React.js**, using external APIs |
-| 🍔 [**Yummy Recipes App**](https://yummy2024.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/yummy2024) | Recipe finder using **JavaScript**, **jQuery**, and external APIs |
+| 🍽️ [**Food Ordering App**](https://food-ordering-app-lyart-three.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/food-ordering-app) | Ordering platform built with **Next.js**, **Prisma**, **PostgreSQL**, **Redux Toolkit**, and **Stripe** |
+| 🛒 [**Next.js E-Commerce**](https://next-js-ecommerce-liard.vercel.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/next-js-ecommerce) | Full-Stack E-commerce app using **Next.js**, **Strapi**, **Clerk**, **Stripe**, **Tailwind CSS**, and more |
+| 🎮 [**Game Over App**](https://abdulrahmanhabiba.github.io/Game_over-React/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) | Free Games browser built with **React.js**, using external APIs |
+| 🍔 [**Yummy Recipes App**](https://abdulrahmanhabiba.github.io/yummy2024/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/yummy2024) | Recipe finder using **JavaScript**, **jQuery**, and external APIs |
 | 💼 [**DevFolio**](https://abdulrahmanhabiba.github.io/DevFolio/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/DevFolio) | Personal portfolio template using **Bootstrap** |
 | 🔧 [**Strapi CMS Demo**](https://strapi-ecommerce-production-f8fb.up.railway.app/) <br> 🔗 [View Code](https://github.com/AbdulrahmanHabiba/strapi-ecommerce) | CMS backend for Next.js E-Commerce, built with **Strapi** |
 
