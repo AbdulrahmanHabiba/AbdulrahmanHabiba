@@ -39,15 +39,15 @@
 
 ## 💼 Highlight Projects
 
-| Project | Description |
-|--------|-------------|
-| 🍽️ [**Food Ordering App**](https://food-ordering-app-lyart-three.vercel.app/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/food-ordering-app) | Built with **Next.js**, **Prisma**, **PostgreSQL**, **Redux Toolkit**, and **Stripe**. |
-| 🛒 [**Next.js E-Commerce**](https://next-js-ecommerce-liard.vercel.app/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/next-js-ecommerce) | Full-stack app using **Next.js**, **Strapi**, **Clerk**, **Stripe**, and **Tailwind CSS**. |
-| 🎮 [**Game Over App**](https://abdulrahmanhabiba.github.io/Game_over-React/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) | Free Games browser built with **React.js**, using external APIs. |
-| 🍔 [**Yummy Recipes App**](https://abdulrahmanhabiba.github.io/yummy2024/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/yummy2024) | Recipe finder built with **JavaScript**, **jQuery**, and external APIs. |
-| 💼 [**DevFolio**](https://abdulrahmanhabiba.github.io/DevFolio/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/DevFolio) | Personal portfolio using **Bootstrap**. |
-| 🎨 [**Simone Olive**](https://abdulrahmanhabiba.github.io/Simone_Olive/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/Simone_Olive) | Clean one-page site built with **HTML** and **CSS**. |
-| 🔧 [**Strapi CMS Demo**](https://strapi-ecommerce-production-f8fb.up.railway.app/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/strapi-ecommerce) | CMS backend built with **Strapi**, used in the E-Commerce project. |
+| Project                                                                                                                                                   | Description                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🧑‍💼 [**YC Directory**](https://yc-directory-chi-pink.vercel.app/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/yc_directory)                  | Startup directory built with **Next.js 15**, **React 19**, **Sanity**, **ShadCN UI**, and **NextAuth**. Supports pitch submissions, search, filtering, and live view tracking using **ISR/PPR**. |
+| 🌐 [**Portfolio Website**](https://abdulrahman-habiba.vercel.app/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/my-portfolio)                   | Personal portfolio built with **React 19**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, **EmailJS**, and **ShadCN UI**.                                                                 |
+| 🍽️ [**Food Ordering App**](https://food-ordering-app-lyart-three.vercel.app/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/food-ordering-app)  | Built with **Next.js**, **Prisma**, **PostgreSQL**, **Redux Toolkit**, and **Stripe**.                                                                                                           |
+| 🛒 [**Next.js E-Commerce**](https://next-js-ecommerce-liard.vercel.app/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/next-js-ecommerce)        | Full-stack app using **Next.js**, **Strapi**, **Clerk**, **Stripe**, and **Tailwind CSS**.                                                                                                       |
+| 🎮 [**Game Over App**](https://abdulrahmanhabiba.github.io/Game_over-React/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/Game_Over-React_code) | Free Games browser built with **React.js**, using external APIs.                                                                                                                                 |
+| 🍔 [**Yummy Recipes App**](https://abdulrahmanhabiba.github.io/yummy2024/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/yummy2024)              | Recipe finder built with **JavaScript**, **jQuery**, and external APIs.                                                                                                                          |
+| 💼 [**DevFolio**](https://abdulrahmanhabiba.github.io/DevFolio/)<br>🔗 [View Code](https://github.com/AbdulrahmanHabiba/DevFolio)                         | Landing page portfolio using **HTML**, **CSS**, and **Bootstrap**.                                                                                                                               |
 
 
 <br>
