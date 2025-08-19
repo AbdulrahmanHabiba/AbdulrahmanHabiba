@@ -49,19 +49,25 @@ I'm a passionate **Frontend Developer** from Alexandria, Egypt, specializing in 
 
 ### ✈️ **Travel Planner App**
 *Full-stack travel planning platform with trip organization, itinerary management, and location tracking*  
-🔗 [Live Demo](#) • [Source Code](#)  
+🔗 [Live Demo](https://travel-planner-v2-three.vercel.app/) • [Source Code](https://github.com/AbdulrahmanHabiba/travel-planner-v2)  
 **Built with:** Next.js, PostgreSQL, Prisma ORM, React-Leaflet, TailwindCSS  
 **Features:** GitHub & Google auth, 3D interactive maps, travel statistics, image uploads
 
+### 💼 **Personal Portfolio**
+*Modern portfolio website showcasing my skills, projects, and professional journey*  
+🔗 [Live Demo](https://abdulrahman-habiba.vercel.app/) • [Source Code](https://github.com/AbdulrahmanHabiba/my-portfolio)  
+**Built with:** Next.js, TypeScript, TailwindCSS, Framer Motion  
+**Features:** Interactive design, project showcase, responsive layout, smooth animations
+
 ### 🚀 **YC Directory**
 *Next.js 15 platform for startup idea submission and browsing with dynamic content management*  
-🔗 [Live Demo](#) • [Source Code](#)  
+🔗 [Live Demo](https://yc-directory-chi-pink.vercel.app/) • [Source Code](https://github.com/AbdulrahmanHabiba/yc_directory)  
 **Built with:** Next.js 15, Sanity CMS, NextAuth, TypeScript  
 **Features:** Real-time views counter, GitHub authentication, dynamic startup submissions
 
 ### 🍕 **Food Ordering App**
 *Pizza ordering platform with extensive customization options and secure payment processing*  
-🔗 [Live Demo](#) • [Source Code](#)  
+🔗 [Live Demo](https://food-ordering-app-lyart-three.vercel.app/) • [Source Code](https://github.com/AbdulrahmanHabiba/food-ordering-app)  
 **Built with:** Next.js, Redux Toolkit, Prisma, PostgreSQL, Stripe  
 **Features:** Custom pizza builder, secure payments, React Query optimization, Framer Motion
 
